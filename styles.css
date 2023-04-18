@@ -1,0 +1,49 @@
+body{
+    background-color: #000000;
+}
+hr{
+    color: #7DCE13;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+     margin: auto;
+}
+h2{
+    
+    color: aliceblue;
+     margin: auto;
+}
+
+
+
+
+.navbar{
+    background-color: #000000;
+    text-align: center;
+}
+.logo{
+    size: 50%;
+        padding-left: 510px;
+        
+}
+.container-fluid{
+    margin-left: 60px;
+    margin-top: 10px;
+    color: aliceblue;
+    background-color: #7DCE13;
+}
+.boxtwo{
+    max-width: auto;
+    padding: 40px;
+    padding-bottom: none;
+    text-align: center;
+    color: aliceblue;
+    background-color: #000000;
+}
+.lastbox{
+    text-align: center;
+    padding: 40px;
+    background-color: #000000;
+    color: aliceblue;
+}
